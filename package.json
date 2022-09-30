@@ -1,0 +1,16 @@
+{
+    "name": "com.badmove.tiledImporter",
+    "version": "1.0.0",
+    "displayName": "Tiled Parser",
+    "description": "Parse tile data from tiled export",
+    "unity": "2021.3.5f1",
+    "keywords": [
+        "Tiled",
+        "Map",
+        "Tiles"
+      ],
+    "author": {
+        "name": "Boyer Julien",
+        "email": "julien.boyer49@orange.fr"
+      }
+}
